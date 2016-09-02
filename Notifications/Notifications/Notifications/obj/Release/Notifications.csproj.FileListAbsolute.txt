@@ -1,0 +1,15 @@
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Notifications.dll
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Notifications.pdb
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\obj\Release\Notifications.dll
+C:\Users\pontus\Documents\Visual Studio 2015\Projects\Notifications\Notifications\Notifications\obj\Release\Notifications.pdb
+C:\Users\pontus\documents\visual studio 2015\Projects\Notifications\Notifications\Notifications\obj\Release\Notifications.csprojResolveAssemblyReference.cache
+C:\Users\pontus\documents\visual studio 2015\Projects\Notifications\Notifications\Notifications\obj\Release\Notifications.dll.mdb
+C:\Users\pontus\documents\visual studio 2015\Projects\Notifications\Notifications\Notifications\bin\Release\Notifications.dll.mdb
